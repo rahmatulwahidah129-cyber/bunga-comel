@@ -1,0 +1,26 @@
+
+   body {
+    font-family: Verdana, sans-serif;
+}
+
+p {
+    color: blue;
+}
+
+#judul-utama {
+    color: red;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.teks-hijau {
+    color: green;
+}
+
+a:hover {
+    color: orange;
+}
